@@ -133,7 +133,7 @@ main {
 .communication-description {
   text-align: center;
 }
-.communication-description > h3 {
+.communication-description > h2 {
   text-transform: uppercase;
   font-weight: 900;
   font-size: 16px;
