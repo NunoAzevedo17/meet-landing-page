@@ -265,7 +265,7 @@ footer::before {
     max-width: 573px;
     margin: auto;
   }
-  .communication-description > h3 {
+  .communication-description > h2 {
     margin-bottom: 15px;
   }
   .communication-description > h1 {
